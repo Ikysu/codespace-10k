@@ -1,0 +1,22 @@
+{
+  "name": "codespace-10k",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "codespace-10k": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikysu/codespace-10k.git"
+  },
+  "keywords": [
+    "codespace"
+  ],
+  "author": "ikysu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ikysu/codespace-10k/issues"
+  },
+  "homepage": "https://github.com/ikysu/codespace-10k#readme"
+}
